@@ -26,7 +26,7 @@ You maybe need this
 ```  
 - **Now don't open you ss connection, or else there could be mistakes.**  
 - Open you vscode and new create go file then update golang extension. 
-- wait a few minutes and finsih.
+- wait a few minutes and finish.
 
 ## Other  
 - If you don't want long time connection vps in vscode, you can select Proxification Rules then vscode rule of action modified to **Direct**. 
